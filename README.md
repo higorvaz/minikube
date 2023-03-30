@@ -44,8 +44,13 @@ See the [Getting Started Guide](https://minikube.sigs.k8s.io/docs/start/)
 
 KALI LINUX
 
-*   curl -LO [https://storage.googleapis.com/minikube/releases/latest/minikube-linux-amd64](https://storage.googleapis.com/minikube/releases/latest/minikube-linux-amd64)
-*   sudo install minikube-linux-amd64 /usr/local/bin/minikube
+*   curl -LO [https://storage.googleapis.com/minikube/releases/latest/minikube-linux-amd64](https://storage.googleapis.com/minikube/releases/latest/minikube-linux-amd64)  
+      
+    AS SUDO
+*   install minikube-linux-amd64 /usr/local/bin/minikube
+*   minikube start --force 
+
+![](https://user-images.githubusercontent.com/9384127/228987615-a33f0730-2d7e-4019-b3fd-7dc5f8657ea2.png)
 
 Documentation
 
