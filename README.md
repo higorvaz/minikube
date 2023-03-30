@@ -2,18 +2,9 @@
 
 ![Actions Status](https://github.com/kubernetes/minikube/workflows/build/badge.svg)
 
-  
- 
-
 ![GoReport Widget](https://goreportcard.com/badge/github.com/kubernetes/minikube)
 
-  
- 
-
 ![GitHub All Releases](https://img.shields.io/github/downloads/kubernetes/minikube/total.svg)
-
-  
- 
 
 ![Latest Release](https://img.shields.io/github/v/release/kubernetes/minikube?include_prereleases)
 
@@ -54,6 +45,7 @@ See the [Getting Started Guide](https://minikube.sigs.k8s.io/docs/start/)
 KALI LINUX
 
 *   curl -LO [https://storage.googleapis.com/minikube/releases/latest/minikube-linux-amd64](https://storage.googleapis.com/minikube/releases/latest/minikube-linux-amd64)
+*   sudo install minikube-linux-amd64 /usr/local/bin/minikube
 
 Documentation
 
