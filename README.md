@@ -56,6 +56,10 @@ minikube start --force
 
 ![](https://user-images.githubusercontent.com/9384127/228991171-2c86e1ce-40f5-4f22-8a5d-3a35b1df61d5.png)
 
+minikube kubectl -- get pods -A
+
+![](https://user-images.githubusercontent.com/9384127/229299171-f4d38fc1-0909-40c6-ad55-62d2e7ebb2f4.png)
+
 Documentation
 
 See https://minikube.sigs.k8s.io/docs/
