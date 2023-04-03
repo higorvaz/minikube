@@ -60,6 +60,10 @@ minikube kubectl -- get pods -A
 
 ![](https://user-images.githubusercontent.com/9384127/229299171-f4d38fc1-0909-40c6-ad55-62d2e7ebb2f4.png)
 
+minikube dashboard
+
+![](https://user-images.githubusercontent.com/9384127/229636484-f85ad94f-9e96-4685-9d16-3ac887023b7f.png)
+
 Documentation
 
 See https://minikube.sigs.k8s.io/docs/
